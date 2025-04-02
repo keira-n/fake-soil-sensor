@@ -1,6 +1,6 @@
 # How2Use (Very Brief Guide)
 
-This is only to make sense of the codes, I don't have the mental capacity to explain every setup.
+This is only to make sense of the files, I don't have the mental capacity to explain every setup.
 Refer to [Microsoft IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/2-farm) for in-depth lesssons
 <p> </p>  
 
