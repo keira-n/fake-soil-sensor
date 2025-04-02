@@ -18,7 +18,6 @@ Microsoft Azure (+ dependencies and dependants)
 
 > [!IMPORTANT]
 > You will need to create virtual environments for each of the 2 folders!
-<p> </p>
 
 ## Installing things
 
