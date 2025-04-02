@@ -1,19 +1,24 @@
 # How2Use (Very Brief Guide)
 <p> 
-</p>  
+</p>
+
 This is only to make sense of the codes, I don't have the mental capacity to explain every setup.
 Refer to [Microsoft IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/2-farm) for in-depth lesssons
-
+<p> 
+</p>  
 
 ## What we will be using
+<p> </p>
 
 Python 3.9.13
 CounterFit (+ dependencies and dependants)
 Microsoft Azure (+ dependencies and dependants)
+<p> </p>
 
 # Getting Started
 > [!IMPORTANT]
-> FYI: you will need to create virtual environments for each of the 2 folders
+> You will need to create virtual environments for each of the 2 folders!
+<p> </p>
 
 ## Installing things
 
@@ -28,5 +33,6 @@ Microsoft Azure (+ dependencies and dependants)
 ### CounterFit
 1. In the [soil_moisture](https://github.com/keira-n/fake-soil-sensor/tree/main/fake-farm-thing/soil_moisture) folder is where the sensors and actuators work.
 2. Open the folder and install the requirements.txt
+<p> </p>
 
 *To be updated* (I'm almost at my 13th reason)
