@@ -4,11 +4,9 @@
 
 This is only to make sense of the codes, I don't have the mental capacity to explain every setup.
 Refer to [Microsoft IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/2-farm) for in-depth lesssons
-<p> 
-</p>  
+<p> </p>  
 
 ## What we will be using
-<p> </p>
 
 Python 3.9.13
 CounterFit (+ dependencies and dependants)
@@ -16,6 +14,8 @@ Microsoft Azure (+ dependencies and dependants)
 <p> </p>
 
 # Getting Started
+<p> </p>
+
 > [!IMPORTANT]
 > You will need to create virtual environments for each of the 2 folders!
 <p> </p>
