@@ -1,0 +1,5 @@
+Werkzeug==2.2.2
+azure-iot-device
+CounterFit
+counterfit-connection
+counterfit-shims-grove
