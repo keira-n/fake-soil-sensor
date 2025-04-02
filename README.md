@@ -8,9 +8,9 @@ Refer to [Microsoft IoT for Beginners](https://github.com/microsoft/IoT-For-Begi
 
 ## What we will be using
 
-Python 3.9.13
-CounterFit (+ dependencies and dependants)
-Microsoft Azure (+ dependencies and dependants)
+Python 3.9.13  
+CounterFit (+ dependencies and dependants)  
+Microsoft Azure (+ dependencies and dependants)  
 
 # Getting Started
 <p> </p>
