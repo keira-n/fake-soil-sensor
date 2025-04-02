@@ -12,8 +12,6 @@ Python 3.9.13
 CounterFit (+ dependencies and dependants)
 Microsoft Azure (+ dependencies and dependants)
 
-<p> </p>
-
 # Getting Started
 <p> </p>
 
