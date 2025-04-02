@@ -1,21 +1,20 @@
 # How2Use (Very Brief Guide)
-
+<br/>
 This is only to make sense of the codes, I don't have the mental capacity to explain every setup.
 Refer to [Microsoft IoT for Beginners](https://github.com/microsoft/IoT-For-Beginners/tree/main/2-farm) for in-depth lesssons
-
-
+<br/>
+<br/>
 ## What we will be using
-
+<br/>
 Python 3.9.13
 CounterFit (+ dependencies and dependants)
 Microsoft Azure (+ dependencies and dependants)
-
-
+<br/>
 # Getting Started
 ### FYI: you will need to create virtual environments for each of the 2 folders
-
+<br/>
 ## Installing things
-
+<br/>
 ### Azurite
 1. Install [Azurite](https://marketplace.visualstudio.com/items?itemName=Azurite.azurite)
 
